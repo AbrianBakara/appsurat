@@ -1,0 +1,45 @@
+]
+
+									<h2> Laporan Transaksi </h2>
+
+									<table border="1">
+										<tr>
+                                            <th>No</th>
+											<th>Judul</th>
+											<th>NIM</th>
+											<th>Nama</th>
+											<th>Tanggal Pinjam</th>
+											<th>Tanggal Kembali</th>
+											<th>Status</th>
+
+                                        </tr>
+
+										
+										<tr>
+                                    		<th scope="row">1</th>
+										  	<td>PHP Komplet</td>
+										  	<td>12191124</td>
+										  	<td>Siti Hartati</td>
+										  	<td>2020-06-01</td>
+										  	<td>2020-06-09</td>
+										  	<td>pinjam</td>
+										
+										<tr>
+                                    		<th scope="row">2</th>
+										  	<td>Otodidak Pemrograman Python</td>
+										  	<td>12192509</td>
+										  	<td>Lee Eunsang</td>
+										  	<td>2020-05-03</td>
+										  	<td>2020-06-30</td>
+										  	<td>kembali</td>
+										
+										<tr>
+                                    		<th scope="row">3</th>
+										  	<td>Pemrograman Bootstrap Untuk Pemula</td>
+										  	<td>12190102</td>
+										  	<td>Lee Hangyul</td>
+										  	<td>2020-06-10</td>
+										  	<td>2020-06-16</td>
+										  	<td>pinjam</td>
+										                                    	</tr>
+</table>
